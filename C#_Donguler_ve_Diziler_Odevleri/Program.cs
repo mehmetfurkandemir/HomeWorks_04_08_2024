@@ -83,7 +83,53 @@ class Program
 
             //10 elemanlı rastgele değerlerden oluşan bir dizideki tüm pozitif sayıları ve negatif sayıları ayrı dizilere ayıran ve her iki diziyi de ekrana yazdıran bir program yazın. İşlemi gerçekleştirmek için while döngüsü kullanın.
 
-            
+               /*  int[] sayilar=new int[10];
+        int negatifSayiAdeti=0;
+        int pozitifSayiAdeti=0;
+        Random random = new Random();
+       for(int i=0;i<sayilar.Length;i++){
+        sayilar[i]=random.Next(-5,6);
+        if(sayilar[i]<0)
+        negatifSayiAdeti++;
+        if(sayilar[i]>=0)
+        pozitifSayiAdeti++;
+
+       }
+       int[] pozitifSayilar = new int[pozitifSayiAdeti];
+       int[] negatifSayilar= new int[negatifSayiAdeti];
+       negatifSayiAdeti=0;
+       pozitifSayiAdeti=0;
+       for(int j=0;j<sayilar.Length;j++)
+       {
+
+        if(sayilar[j]<0){
+        negatifSayilar[negatifSayiAdeti]=sayilar[j];
+        negatifSayiAdeti++;
+        }else{
+            pozitifSayilar[pozitifSayiAdeti]=sayilar[j];
+            pozitifSayiAdeti++;
+        }
+
+       }
+
+        Console.Write("Tüm Sayılar");
+
+        foreach (int i in sayilar){
+        Console.Write(i+",");
+       }
+        Console.WriteLine();
+        Console.Write("Negatif Sayılar");
+
+        foreach (int i in negatifSayilar){
+        Console.Write(i+",");
+       }
+        Console.WriteLine();
+        Console.Write("Pozitif Sayılar");
+
+        Array.ForEach(pozitifSayilar,i=>Console.Write(i+","));
+        Console.WriteLine();
+                
+ */
             
 
         #endregion
@@ -104,6 +150,29 @@ class Program
         for(int i = 0; i < numbers.Length; i++)
         {
             Console.WriteLine(numbers[i] + " ");
+        } */
+
+        /* int[] sayilar = new int[100];
+        int counter = 0;
+        string mesaj = "Tekrar eden index";
+
+        Random random = new Random();
+
+        for(int i = 0; i < sayilar.Length; i++)
+        {
+            string indexMesaji = $"{sayilar[i]} sayısı tekrar eden indexleri: ";
+            sayilar[i] = random.Next(1, 101);
+        }
+
+        for(int i = 0; i < sayilar.Length; i++)
+        {
+            for(int j = 0; j < sayilar.Length; j++)
+            {
+                if(sayilar[i] == sayilar[j]) 
+                {
+                    indexMesaji += i + ",";
+                }
+            }
         } */
 
         #endregion

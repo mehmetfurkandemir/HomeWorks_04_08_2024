@@ -12,3 +12,4 @@ C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Dizi
 C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.pdb
 C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.genruntimeconfig.cache
 C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\ref\C#_Donguler_ve_Diziler_Odevleri.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.sourcelink.json
