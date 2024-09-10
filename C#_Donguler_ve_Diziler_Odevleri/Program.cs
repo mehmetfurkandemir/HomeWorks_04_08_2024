@@ -138,42 +138,33 @@ class Program
             //100 elemanlı rastgele değerlerden oluşan bir tam sayı dizisinde tekrar eden elemanları bulan bir program yazın. Diziyi tararken, elemanların hangi pozisyonlarda(kaçıncı indexte) tekrarlandığını ekrana yazdırın. Bu işlemi hem for hem de foreach döngüleri ile gerçekleştirin.
 
 
-       /*  Random rnd = new Random();
-        int[] numbers = new int[100];
-                
-        for(int i = 0; i < numbers.Length; i++)
-        {
-            numbers[i] = rnd.Next(-100, 100);
-        }
-        Console.WriteLine("Rastgele 100 Sayı: ");
-        
-        for(int i = 0; i < numbers.Length; i++)
-        {
-            Console.WriteLine(numbers[i] + " ");
-        } */
+            /* int[] sayilar=new int[100];
+            string[] cıktı = new string[100];
+            int counter = 0;
+            string mesaj = "Tekrar eden indexler";
+            Random random = new Random();
 
-        /* int[] sayilar = new int[100];
-        int counter = 0;
-        string mesaj = "Tekrar eden index";
-
-        Random random = new Random();
-
-        for(int i = 0; i < sayilar.Length; i++)
-        {
-            string indexMesaji = $"{sayilar[i]} sayısı tekrar eden indexleri: ";
-            sayilar[i] = random.Next(1, 101);
-        }
-
-        for(int i = 0; i < sayilar.Length; i++)
-        {
-            for(int j = 0; j < sayilar.Length; j++)
+            for(int i = 0; i < sayilar.Length; i++)
             {
-                if(sayilar[i] == sayilar[j]) 
-                {
-                    indexMesaji += i + ",";
-                }
+                sayilar[i] = random.Next(1, 101);
             }
-        } */
+
+            for(int i = 0;i < sayilar.Length; i++)
+            {
+                string indexMesajı = $"{sayilar[i]} sayısı tekrar eden indexleri: ";
+                for(int j = 0; j<sayilar.Length; j++)
+                {
+                    if (sayilar[i] == sayilar[j]) {
+                        indexMesajı += j + ",";
+                    }
+                }
+                   cıktı[i]=indexMesajı;
+
+            }
+            foreach (var item in cıktı.Distinct())
+            {
+                Console.WriteLine(item);
+            }; */
 
         #endregion
         #region 5- Var mı Yok mu ?
