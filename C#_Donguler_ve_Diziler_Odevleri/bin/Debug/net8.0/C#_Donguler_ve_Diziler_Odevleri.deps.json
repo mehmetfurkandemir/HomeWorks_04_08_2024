@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#_Donguler_ve_Diziler_Odevleri/1.0.0": {
+        "runtime": {
+          "C#_Donguler_ve_Diziler_Odevleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Donguler_ve_Diziler_Odevleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

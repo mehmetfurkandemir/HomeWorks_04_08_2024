@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\bin\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.exe
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\bin\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\bin\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\bin\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\bin\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\refint\C#_Donguler_ve_Diziler_Odevleri.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\C#_Donguler_ve_Diziler_Odevleri.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_04_08_2024\C#_Donguler_ve_Diziler_Odevleri\obj\Debug\net8.0\ref\C#_Donguler_ve_Diziler_Odevleri.dll
